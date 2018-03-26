@@ -1,0 +1,12 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Server demo for permission control of vuejs",
+  "main": "index.js",
+  "author": "ahui-lin@qq.com",
+  "dependencies": {
+    "koa": "^2.5.0",
+    "koa-body": "^2.5.0",
+    "koa-router": "^7.4.0"
+  }
+}
